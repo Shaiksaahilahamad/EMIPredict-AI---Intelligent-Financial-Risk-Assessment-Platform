@@ -15,7 +15,7 @@ This project implements the full spec from the *EMIPredict AI – Intelligent Fi
   - Real-time EMI prediction
   - CRUD for user records
 - Streamlit Cloud–ready
-
+DEPLOYED LINK IS :-  https://emi-prediction-ai.streamlit.app/
 ## Dataset Schema
 
 Expected columns in `data/EMI_dataset.csv`:
@@ -27,3 +27,4 @@ dependents,school_fees,college_fees,travel_expenses,groceries_utilities,
 other_monthly_expenses,existing_loans,current_emi_amount,credit_score,
 bank_balance,emergency_fund,emi_scenario,requested_amount,requested_tenure,
 emi_eligibility,max_monthly_emi
+
